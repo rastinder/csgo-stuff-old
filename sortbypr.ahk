@@ -1,0 +1,28 @@
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+; #Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+
+pr20accs:= []
+pr21accs:=[]
+loop, Read , username.txt
+					{
+						ha := StrSplit(A_LoopReadLine, ",")
+						,pr := ha[3]
+						if pr >= 21 
+							pr21accs.push(A_LoopReadLine)
+						else
+							pr20accs.push(A_LoopReadLine)
+					}
+					
+FileDelete, username.txt
+					
+					loop, % pr20accs.maxindex(){
+						this := pr20accs[A_Index]
+						FileAppend,%this%`n, username.txt
+					}
+				
+					loop, % pr21accs.maxindex(){
+						this := pr21accs[A_Index]
+						FileAppend,%this%`n, username.txt
+					}

@@ -1,0 +1,203 @@
+#NoEnv
+ListLines On
+global nv ,ov,odebug,count,tText
+tText := []
+runed = 0
+ov = 0
+count = 1
+;Gui, show,x3216 y0 h2100 w625 NoActivate , lol
+Gui, Show, x3216 y0 h2100 w625 NoActivate
+CustomColor := "EEAA99" 
+Gui +LastFound +AlwaysOnTop -Caption +ToolWindow
+;Gui, Margin,,0
+Gui, Add, Text, vMyText cLime, XXXXX YYYYY  ; XX & YY serve to auto-size the window.
+Gui, Add, Text, vMyText11 cLime, XXxxxxxxxxxxxxxxxxxxxxXXX YYyyyyyyyyyyyyyyyyyyyyYYY  ; XX & YY serve to auto-size the window.
+Gui, Add, Text, vMyText10 cLime, XXxxxxxxxxxxxxxxxxxxxxXXX YYyyyyyyyyyyyyyyyyyyyyYYY  ; XX & YY serve to auto-size the window.
+Gui, Add, Text, vMyText9 cLime, XXXxxxxxxxxxxxxxxxxxxxxXX YYYyyyyyyyyyyyyyyyyyyyyYY  ; XX & YY serve to auto-size the window.
+Gui, Add, Text, vMyText8 cLime, XXXxxxxxxxxxxxxxxxxxxxxXX YYYyyyyyyyyyyyyyyyyyyyyYY  ; XX & YY serve to auto-size the window.
+Gui, Add, Text, vMyText7 cLime, XXXxxxxxxxxxxxxxxxxxxxxXX YYYyyyyyyyyyyyyyyyyyyyyYY  ; XX & YY serve to auto-size the window.
+Gui, Add, Text, vMyText6 cLime, XXXxxxxxxxxxxxxxxxxxxxxXX YYYyyyyyyyyyyyyyyyyyyyyYY  ; XX & YY serve to auto-size the window.
+Gui, Add, Text, vMyText5 cLime, XXXxxxxxxxxxxxxxxxxxxxxXX YYYyyyyyyyyyyyyyyyyyyyyYY  ; XX & YY serve to auto-size the window.
+Gui, Add, Text, vMyText4 cLime, XXXxxxxxxxxxxxxxxxxxxxxXX YYYyyyyyyyyyyyyyyyyyyyyYY  ; XX & YY serve to auto-size the window.
+Gui, Add, Text, vMyText3 cLime, XXXxxxxxxxxxxxxxxxxxxxxXX YYYyyyyyyyyyyyyyyyyyyyyYY  ; XX & YY serve to auto-size the window.
+Gui, Add, Text, vMyText2 cLime, XXXxxxxxxxxxxxxxxxxxxxxXX YYYyyyyyyyyyyyyyyyyyyyyYY  ; XX & YY serve to auto-size the window.
+Gui, Add, Text, vMyText1 cLime, XXXxxxxxxxxxxxxxxxxxxxxXX YYYyyyyyyyyyyyyyyyyyyyyYY  ; XX & YY serve to auto-size the window.
+WinSet, TransColor, %CustomColor% 150
+odebug++
+
+;
+loop
+{
+debug++
+odebug =  lala ,%debug%  ala ,%debug% ala ,%debug% ala ,%debug% ala ,%debug% ala ,%debug% ala ,%debug% ala ,%debug% ala ,%debug%
+sleep 1000
+UpdateOSD()
+}
+return
+
+
+UpdateOSD()
+{
+if (Count = 7)
+	Count = 1
+OutputDebug `n nv %nv% ov %ov% ...or...   
+MouseGetPos, MouseX, MouseY
+GuiControl,, MyText, `n X%MouseX%, Y%MouseY%
+
+						if (odebug = tText[1]  )
+											return
+tText[6] := tText[5]
+,tText[5] := tText[4]
+,tText[4] := tText[3]
+,tText[3] := tText[2]
+,tText[2] := tText[1]
+,tText[1] := odebug
+loop , 6
+{
+nv := tText[A_Index]
+GuiControl,, MyText%A_Index%,%nv%
+}
+return
+
+
+
+
+
+
+
+		;GuiControl,, MyText1,%odebug%
+		;tText[1] := odebug 
+		
+;		if (tText[6] != tText[5])
+;			{
+;				tText[6] := tText[5]
+;				return
+;			}
+;		else
+;		{
+;			ov := tText[5]
+;			GuiControl,, MyText6,%ov%
+;			
+;
+;			if (tText[5] != tText[4])
+;				{
+;					tText[5] := tText[4]
+;					return
+;				}
+;			else
+;			{
+;				ov := tText[4]
+;				GuiControl,, MyText5,%ov%
+;				
+;				
+;				if (tText[4] != tText[3])
+;					{
+;						tText[4] := tText[3]
+;						return
+;					}
+;				else
+;					{
+;						ov := tText[3]
+;						GuiControl,, MyText4,%ov%
+;						
+;				
+;						if (tText[3] != tText[2])
+;							{
+;								tText[3] := tText[2]
+;								return
+;							}
+;						else
+;							{
+;								ov := tText[2]
+;								GuiControl,, MyText3,%ov%
+;								
+;
+;								if (tText[2] != tText[1])
+;										{
+;											tText[2] := tText[1]
+;										return
+;										}
+;								else
+;									{
+;										ov := tText[1]
+;										GuiControl,, MyText2,%ov%
+;										
+;										
+;										if (odebug != tText[1]  )
+;											{
+;												GuiControl,, MyText1,%odebug%
+;												tText[1] := odebug
+;											}
+;										else
+;											{
+;											GuiControl,, MyText1,%odebug%
+;											tText[1] := odebug
+;											return
+;											}
+;									}
+;							}
+;					}
+;			}
+;		}
+;return
+
+	tText[1] := odebug
+;,MyText1 := MyText0
+;,MyText2 := MyText1
+;,MyText3:=MyText2
+;,MyText4:=MyText3
+;,MyText5:=MyText4
+;,MyText6:=MyText5
+;,MyText7:=MyTex6
+;,MyText8:=MyText7
+;,MyText9:=MyText8
+;,MyText10:=MyText9
+;,MyText11:=MyText10
+loop , %Count%
+{
+nv := tText[A_Index]
+GuiControl,, MyText%A_Index%,%odebug%
+}
+Count++
+return
+}
+loop , %Count%
+{
+ l := A_Index +1
+ l += 0
+ 
+ if loda != 0
+{	
+	nv := tText[A_Index]
+	ov := tText[l]
+	OutputDebug `n nv %nv% ov %ov% ...or...   
+	ov := tText[l]
+	OutputDebug `n nv %nv% ov %ov%
+	if (tText[A_Index] != tText[%l%])
+	{
+		tText[%l%] := tText[A_Index]
+		ov := nv
+GuiControl,, MyText%l%,%nv%
+}
+}
+}
+Count++
+return
+
+
+if (m1 <3)
+GuiControl,, MyText3,%MyText2%
+if (m1 <4)
+GuiControl,, MyText4,%MyText3%
+if (m1 <5)
+GuiControl,, MyText5,%MyText4%
+if (m1 <6)
+GuiControl,, MyText6,%MyText5%
+if (m1 <7)
+GuiControl,, MyText7,%MyTex6%
+GuiControl,, MyText8,%MyText7%
+GuiControl,, MyText9,%MyText8%
+GuiControl,, MyText10,%MyText9%
+GuiControl,, MyText11,%MyText10%
+return
+

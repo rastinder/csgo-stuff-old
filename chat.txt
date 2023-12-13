@@ -1,0 +1,1630 @@
+
+Ido Ben Huradmin
+Andrey Norton
+I understood it because of "c#" from your words
+C++ is also oop
+
+Andrey Norton
+I know
+
+Ido Ben Huradmin
+Most higher lvl langs are OOP imo
+No reason to do it otherwise. It solves a lot of issues
+
+Andrey Norton
+Provide writing OS on assembler
+This message is currently not supported on Telegram Web. Try getdesktop.telegram.org.
+
+Ido Ben Huradmin
+Andrey Norton
+Provide writing OS on assembler
+hahahahaha
+
+Andrey Norton
+Writing render of battery percentage a month
+
+Ido Ben Huradmin
+Sounds like a massive headache lasting for decades
+
+Andrey Norton
+Ido Ben Hur
+Sounds like a massive headache lasting for decades
+Sounds like "pizdec blyat nahuy"
+I think you'll understand it :joy:
+
+Ido Ben Huradmin
+Andrey Norton
+Sounds like "pizdec blyat nahuy" I think you'll understand it :joy:
+Ofc I do :)
+
+Andrey Norton
+Rustlang is good too
+You'll never get any exception because of it's working principe
+Have you heard about it?
+
+Anmol ¯\_(ツ)_/¯
+Ido Ben Hur
+See my linked commit. Solves that perfectly
+ohh ye. that code so nice
+
+Ido Ben Huradmin
+Andrey Norton
+Have you heard about it?
+Yea ofc
+Anmol ¯\_(ツ)_/¯
+ohh ye. that code so nice
+Thanks :)
+In yaap I just don't feel like impl the thing at all, it's pretty useless
+
+Adhitya Mohanadmin
+Ido Ben Hur
+In yaap I just don't feel like impl the thing at all, it's pretty useless
+mostly because i'll veto
+:runner:♂
+
+Ido Ben Huradmin
+Adhitya Mohan
+mostly because i'll veto
+lmao
+I'm the platform dude
+And I'm sane lol
+I won't add useless stuff xD
+
+Andrey Norton
+Ido Ben Hur
+I won't add useless stuff xD
+That's true
+Ido Ben Hur
+Yea ofc
+How long time you're working on aosp projects?
+
+Ido Ben Huradmin
+Andrey Norton
+How long time you're working on aosp projects?
+A bit more then a year. I'm a beginner
+idk. I feel like I learned fast
+
+Adhitya Mohanadmin
+Ido Ben Hur
+A bit more then a year. I'm a beginner
+*than
+
+Ido Ben Huradmin
+Adhitya Mohan
+*than
+then!
+e for time
+
+Adhitya Mohanadmin
+did same mistake in that comment
+
+Andrey Norton
+Ido Ben Hur
+A bit more then a year. I'm a beginner
+And, what about your developing? How long time you're developing at all, not only on aosp?
+
+Ido Ben Huradmin
+Andrey Norton
+And, what about your developing? How long time you're developing at all, not only on aosp?
+11 years
+
+Andrey Norton
+Wow
+What you've worked on before? Can you say?
+
+Adhitya Mohanadmin
+Ido Ben Hur
+then!
+https://www.powerthesaurus.org/little_less_than_a_year_ago
+
+Power Thesaurus
+Little less than a year ago Thesaurus
+What's the definition of Little less than a year ago in thesaurus? Most related words/phrases with sentence examples define Little less than a year ago meaning and usage.
+
+Anmol ¯\_(ツ)_/¯
+Ido Ben Hur
+e for time
+[Photo]
+/runs
+
+Adhitya Mohanadmin
+
+Anmol ¯\_(ツ)_/¯
+Photo
+ikr
+
+Ido Ben Huradmin
+
+Anmol ¯\_(ツ)_/¯
+Photo
+O I get it now
+Bec it's a comparison
+
+Anmol ¯\_(ツ)_/¯
+yes
+
+Adhitya Mohanadmin
+Ido Ben Hur
+O I get it now
+[Photo]
+that should be then
+
+Ido Ben Huradmin
+
+Adhitya Mohan
+Photo
+idm
+His English is way way worse anyways so...
+
+Adhitya Mohanadmin
+Ido Ben Hur
+His English is way way worse anyways so...
+not that bad
+
+Ido Ben Huradmin
+Adhitya Mohan
+not that bad
+Did I invited
+
+Adhitya Mohanadmin
+Ido Ben Hur
+Did I invited
+wut
+
+Andrey Norton
+Ido Ben Hur
+Did I invited
+Ooooof
+
+Ido Ben Huradmin
+Adhitya Mohan
+wut
+One of his mistakes xD
+
+Adhitya Mohanadmin
+Ido Ben Hur
+His English is way way worse anyways so...
+ahhh
+you mean his
+
+Andrey Norton
+I'dn't
+Lmao
+
+Ido Ben Huradmin
+Adhitya Mohan
+you mean his
+yea
+
+Adhitya Mohanadmin
+i read as my english is wayy worse XD
+
+Ido Ben Huradmin
+Ido Ben Hur
+His English is way way worse anyways so...
+^
+Adhitya Mohan
+i read as my english is wayy worse XD
+lmao
+nah
+
+Adhitya Mohanadmin
+brain fart
+
+Ido Ben Huradmin
+I think we're about the same level?
+Adarsh Varshney
+Ido Ben Hur
+Some ROM developers really care about you users :) They do that by writing bad code apparently. For laughs and good time, Read t
+Lmfaoooo, im new to computer science havent even had my first class yet but i can still see how bad that code is, kudos to u to keep replying to the guys comments thinking it would make a difference in the way he thinks. I always thought making roms was hard and so i never looked it up, but looking at this made me feel soo much better about myself, thank you for what u do for the community btw and for the great laugh lmaoo
+
+Andrey Norton
+Adarsh Varshney
+Lmfaoooo, im new to computer science havent even had my first class yet but i can still see how bad that code is, kudos to u to
+It's difficult to begin, but simple to implement smth
+
+Adhitya Mohanadmin
+Adarsh Varshney
+Lmfaoooo, im new to computer science havent even had my first class yet but i can still see how bad that code is, kudos to u to
+The point is not it being difficult
+The point is he refuses to accept his code is garbage
+
+Andrey Norton
+Android's working principle is simple, xml on front and java on backend
+
+Adhitya Mohanadmin
+And 1sy year cs student will know it is.
+Andrey Norton
+Android's working principle is simple, xml on front and java on backend
+Well
+Not exactly
+But kinda yeah
+Adarsh Varshney
+Adhitya Mohan
+The point is he refuses to accept his code is garbage
+Ikr. "I never asked for u to clean up my code". He didnt have to, the code was begging to be changed lmao
+
+Andrey Norton
+Yes, that's different if you rendering yourself
+But basic principle is simple
+
+Adhitya Mohanadmin
+Andrey Norton
+But basic principle is simple
+Mostly fucked because of how QCOM works but that's a story for another day
+
+Anmol ¯\_(ツ)_/¯
+Adhitya Mohan
+The point is he refuses to accept his code is garbage
+No no. I think he knows that his code is garbage but he thinks that it doesn't matter since "it works"
+
+Ido Ben Huradmin
+Adarsh Varshney
+Lmfaoooo, im new to computer science havent even had my first class yet but i can still see how bad that code is, kudos to u to
+Hahahaha ikr. Good luck with your degree man. I also just started it
+
+John Doe
+Ido Ben Hur
+Hahahaha ikr. Good luck with your degree man. I also just started it
+I only use vba mostly (work is a million Excel files). If I used ifs like that, I'd need a supercomputer 🤭
+
+Ido Ben Huradmin
+John Doe
+I only use vba mostly (work is a million Excel files). If I used ifs like that, I'd need a supercomputer 🤭
+Hahahah true
+Anmol ¯\_(ツ)_/¯
+No no. I think he knows that his code is garbage but he thinks that it doesn't matter since "it works"
+Yea something like that
+
+real jake
+Ido I just want to say not only do I respect you for your response but I also respect how much you care, like holy fucking shit I've gotten the opportunity to talk to the very developers working on *my* device like you won't get that anywhere, this dude is actually braindead can't even use a case switch
+
+Ido Ben Huradmin
+real jake
+Ido I just want to say not only do I respect you for your response but I also respect how much you care, like holy fucking shit
+Thank you. I'm glad to be doing this. I enjoy it
+
+Adhitya Mohanadmin
+Ido Ben Hur
+Some ROM developers really care about you users :) They do that by writing bad code apparently. For laughs and good time, Read t
+On a side note here, while Ido uses very colorful language we don't usually call out people publicly even when they blatantly Kang our code with no regard. Have been cases of "Pro" well known devs in the community doing that. But we decided take a special case on this because of their sheer blataness by which they Kang our device commits from the 7t, write such terrible platform code, and then ask for donations based on using other people's work.
+
+Henkieee
+Wow what the actual fuck I just have read? If abortion could be done afterwards, SuperDroidBond should be done first, man what does he suck.....
+
+Ido Ben Huradmin
+Adhitya Mohan
+On a side note here, while Ido uses very colorful language we don't usually call out people publicly even when they blatantly Ka
++10000
+Lemme amend to my pinned
+Henkieee
+Wow what the actual fuck I just have read? If abortion could be done afterwards, SuperDroidBond should be done first, man what d
+Hahahahahahahhaha
+
+Andrey Norton
+Adhitya Mohan
+On a side note here, while Ido uses very colorful language we don't usually call out people publicly even when they blatantly Ka
+[🤔 Sticker]
+Holy, bruh, I read it as "coding"
+
+Ido Ben Huradmin
+Henkieee
+Wow what the actual fuck I just have read? If abortion could be done afterwards, SuperDroidBond should be done first, man what d
+SuperDroidBong*
+
+Adhitya Mohanadmin
+Ido Ben Hur
+Some ROM developers really care about you users :) They do that by writing bad code apparently. For laughs and good time, Read t
+LoL he actually deleted his stuff, so use the archive link XD
+
+ALKALiKong #NOETA
+
+Joey Yu
+Photo
+[😂 Sticker]
+Adhitya Mohan
+https://web.archive.org/web/20201213153403/https://github.com/Project-Xtended/frameworks_base/commit/94e12e7301350ec33f6a1590deb
+[😂 Sticker]
+pro dev with pro code
+
+Ido Ben Huradmin
+Adhitya Mohan
+LoL he actually deleted his stuff, so use the archive link XD
+Replaced
+brad joined the group
+
+Roseadmin
+brad
+joined the group
+Hey there brad, and welcome to YAAP shitpost! How are you?
+
+The Flash :zap:// DerpFest A11 5T //admin
+Oh hi @bdwilk , look how they massacred my boi NOS
+
+brad
+The Flash :zap:// DerpFest A11 5T //
+Oh hi @bdwilk , look how they massacred my boi NOS
+Bwahahahaha
+
+The Flash :zap:// DerpFest A11 5T //admin
+brad
+Bwahahahaha
+[📈 Sticker]
+Ivan Martynov joined the group
+
+Roseadmin
+Ivan Martynov
+joined the group
+Hey there Ivan, and welcome to YAAP shitpost! How are you?
+
+Ivan Martynov
+Hi
+[Photo]
+Anyone knows how to fix?
+https://del.dog/ustocacawa
+dogbin - ustocacawa
+make[1]: Entering directory '/home/johnmart19/aosp/out/target/product/ginkgo/obj/KERNEL_OBJ'
+GEN
+[Photo]
+[Photo]
+Running WSL2 Ubuntu 20.04
+
+Adhitya Mohanadmin
+
+Ivan Martynov
+Photo
+disable windows paths
+
+Ivan Martynov
+Adhitya Mohan
+disable windows paths
+How to?
+
+Adhitya Mohanadmin
+Ivan Martynov
+How to?
+https://gist.github.com/ilbunilcho/4280bd55a10cefef75e74986b6bff936
+How to remove Windows paths from WSL path
+How to remove Windows paths from WSL path. GitHub Gist: instantly share code, notes, and snippets.
+[Photo]
+
+Ivan Martynov
+Thanks
+
+Adhitya Mohanadmin
+Ivan Martynov
+Thanks
+message next time @yaapcommon
+this is the OT group
+
+Ivan Martynov
+Adhitya Mohan
+message next time @yaapcommon
+Thanks, hard to find chats a bit XD
+Amir Owj joined the group
+
+Roseadmin
+Amir Owj
+joined the group
+Hey there Amir D, and welcome to YAAP shitpost! How are you?
+
+Adhitya Mohanadmin
+Ido Ben Hur
+Some ROM developers really care about you users :) They do that by writing bad code apparently. For laughs and good time, Read t
+The link is back!
+
+Ido Ben Huradmin
+Adhitya Mohan
+The link is back!
+lol wtf
+Rafael Braz joined the group
+
+Roseadmin
+Rafael Braz
+joined the group
+Hey there Rafael, and welcome to YAAP shitpost! How are you?
+cris94sb joined the group
+
+Roseadmin
+cris94sb
+joined the group
+Hey there cris94sb, and welcome to YAAP shitpost! How are you?
+
+Przemysław | 8T
+Is telegram X dead generally speaking?
+
+Jade the 4G Notebook Girl
+yes
+Kroxkr joined the group
+
+Roseadmin
+Kroxkr
+joined the group
+Hey there Kroxkr, and welcome to YAAP shitpost! How are you?
+trawel joined the group
+
+Roseadmin
+trawel
+joined the group
+Hey there trawel, and welcome to YAAP shitpost! How are you?
+trawel
+Hi, not sure if that group is ok but I tried to build yaap for guacamoleb
+And lunch yaap_guacamoleb-userdebug && make yaap causes errors
+Can not locate config makefile for product "guacamoleb"
+What am I doing wrong?
+
+Ido Ben Huradmin
+trawel
+What am I doing wrong?
+You don't have the correct make file in dt
+naming probably imo
+
+Andrey Norton
+Or not having dt
+[😃 Sticker]
+
+Ido Ben Huradmin
+Andrey Norton
+Or not having dt
+lmao
+This is even funnier
+ 1 KB
+example file from guac tree lol
+Amith Acharya joined the group
+
+Roseadmin
+Amith Acharya
+joined the group
+Hey there Amith, and welcome to YAAP shitpost! How are you?
+DigiGoon joined the group
+
+Roseadmin
+DigiGoon
+joined the group
+Hey there DigiGoon, and welcome to YAAP shitpost! How are you?
+Django McGuire joined the group
+
+Roseadmin
+Django McGuire
+joined the group
+Hey there Django, and welcome to YAAP shitpost! How are you?
+Django McGuire
+Hey .. wondering if there is some way to mute all apps but one.. use case.. I have Spotify running and parallely I want to keep working on other apps / tasks but don't want the audio from those apps to reach the spkr. Any suggestions?
+
+Shawn
+Django McGuire
+Hey .. wondering if there is some way to mute all apps but one.. use case.. I have Spotify running and parallely I want to keep
+So you can't put phone on vibrate, but speaker volume up?
+Django McGuire
+Weirdly enough I am watching videos on Netflix with captions.. but. Prefer trance in background
+So.. how can I make this happen, if at all
+Like we can ctrl notifs.. anything to ctrl audio per app?
+
+ALKALiKong #NOETA
+Lmfao
+[Photo]
+[Photo]
+My computer's cores missing
+[😂 Sticker]
+Lmfao
+Can you guys imagine being on a 1 core host?
+XD
+新 加卷 joined the group
+
+Roseadmin
+新 加卷
+joined the group
+Hey there 新, and welcome to YAAP shitpost! How are you?
+
+新 加卷
+[🤠 Sticker]
+@ALiKongALK
+
+Sagarika
+How do I check OnePlus 5's SAR value? The code doesn't work
+Sudhanshu joined the group
+
+Roseadmin
+Sudhanshu
+joined the group
+Hey there Sudhanshu, and welcome to YAAP shitpost! How are you?
+Swapnil joined the group
+
+Roseadmin
+Swapnil
+joined the group
+Hey there Xenitizen, and welcome to YAAP shitpost! How are you?
+bakusiovskyyyy 🇵🇱 joined the group
+
+Roseadmin
+bakusiovskyyyy 🇵🇱
+joined the group
+Hey there bakusiovskyyyy 🇵🇱, and welcome to YAAP shitpost! How are you?
+YEET joined the group
+
+Roseadmin
+YEET
+joined the group
+Hey there vendor.​lineage.​LiveDisplay-2.​0@​/display/lineage-sdk/LiveDisplay, and welcome to YAAP shitpost! How are you?
+
+YEET
+/notes
+
+Roseadmin
+YEET
+/notes
+No notes in YAAP shitpost!
+
+Ido Ben Huradmin
+Rose
+No notes in YAAP shitpost!
+no notes for you!
+
+Ido Ben Huradmin
+RoseFeb 22, 2021 4:37:06 PM
+@yaapcommon - Common Chat
+@yaapop5 - OnePlus 5 Series
+@yaapop7 - OnePlus 7 Series
+@yaapot - OT Chat
+@yaapraphael - Redmi K20 Pro/Mi 9T Pro
+@yaap_tissot - Xiaomi Mi A1
+@alksgroup - Xiaomi Mi 8
+@yaapupdates - Release Channel
+
+Ido Ben Huradmin
+Ido Ben Hur
+@yaapcommon - Common Chat @yaapop5 - OnePlus 5 Series @yaapop7 - OnePlus 7 Series @yaapot - OT Chat @yaapraphael - Redmi K20 Pro
+/save yaapstations
+
+Roseadmin
+Ido Ben Hur
+/save yaapstations
+Saved note yaapstations.
+𝙰𝚍𝚒𝚝𝚢𝚊 𝙿𝚊𝚗𝚍𝚊 joined the group
+
+Roseadmin
+𝙰𝚍𝚒𝚝𝚢𝚊 𝙿𝚊𝚗𝚍𝚊
+joined the group
+Hey there 𝙰𝚍𝚒𝚝𝚢𝚊, and welcome to YAAP shitpost! How are you?
+
+Shawn
+:new_moon_with_face:
+
+The Flash :zap:// DerpFest A11 5T //admin
+Shawn
+:new_moon_with_face:
+Ded
+
+YEET
+[⚰ Sticker]
+Swapnil joined the group
+
+Roseadmin
+Swapnil
+joined the group
+Hey there Swapnil, and welcome to YAAP shitpost! How are you?
+Vladimir Sarkisyan joined the group
+
+Roseadmin
+Vladimir Sarkisyan
+joined the group
+Hey there Vladimir, and welcome to YAAP shitpost! How are you?
+Dan Kovac joined the group
+
+Roseadmin
+Dan Kovac
+joined the group
+Hey there Dan, and welcome to YAAP shitpost! How are you?
+Aspheric joined the group
+
+Roseadmin
+Aspheric
+joined the group
+Hey there Aspheric, and welcome to YAAP shitpost! How are you?
+bala surya vamsi joined the group
+
+Roseadmin
+bala surya vamsi
+joined the group
+Hey there bala surya, and welcome to YAAP shitpost! How are you?
+
+bala surya vamsi
+hi
+need help
+============================================
+[100% 184/184] /home/surya580/yaap/out/soong/.bootstrap/bin/soong_build /home/surya580/yaap/out/soong/build.ninja
+FAILED: /home/surya580/yaap/out/soong/build.ninja
+/home/surya580/yaap/out/soong/.bootstrap/bin/soong_build -t -l /home/surya580/yaap/out/.module_paths/Android.bp.list -b /home/surya580/yaap/out/soong -n /home/surya580/y
+aap/out -d /home/surya580/yaap/out/soong/build.ninja.d -globFile /home/surya580/yaap/out/soong/.bootstrap/build-globs.ninja -o /home/surya580/yaap/out/soong/build.ninja 
+Android.bp
+error: device/qcom/common/init/Android.bp:38:1: unrecognized module type "prebuilt_hidl_interfaces"
+19:44:10 soong bootstrap failed with: exit status 1
+
+Adhitya Mohanadmin
+bala surya vamsi
+============================================ [100% 184/184] /home/surya580/yaap/out/soong/.bootstrap/bin/soong_build /home/surya
+@yaapcommon
+
+bala surya vamsi
+Adhitya Mohan
+@yaapcommon
+thank you
+
+The Flash :zap:// DerpFest A11 5T //admin
+#latest
+/notes
+
+Roseadmin
+The Flash :zap:// DerpFest A11 5T //
+/notes
+List of notes in YAAP shitpost:
+- yaapstations
+You can retrieve these notes by using /get notename, or #notename
+
+The Flash :zap:// DerpFest A11 5T //admin
+@generichandle need nos eol bruh
+TimeWaster
+The Flash :zap:// DerpFest A11 5T //
+@generichandle need nos eol bruh
+DotOS done for you?
+
+The Flash :zap:// DerpFest A11 5T //admin
+TimeWaster
+DotOS done for you?
+Nai be
+Someone else needs it
+Won't go back to 10 now
+TimeWaster
+The Flash :zap:// DerpFest A11 5T //
+Nai be Someone else needs it
+Oh okay
+:herb:iherb:herb: joined the group
+
+Roseadmin
+:herb:iherb:herb:
+joined the group
+Hey there :hibiscus: Mia :hibiscus:, and welcome to YAAP shitpost! How are you?
+Мумтоз joined the group
+
+Roseadmin
+Мумтоз
+joined the group
+Hey there Мумтоз, and welcome to YAAP shitpost! How are you?
+Мумтоз
+
+Video 2.5 MB
+Kroxkr joined the group
+
+Roseadmin
+Kroxkr
+joined the group
+Hey there Kroxkr, and welcome to YAAP shitpost! How are you?
+Kroxkr
+/notes
+
+Roseadmin
+Kroxkr
+/notes
+List of notes in YAAP shitpost:
+- yaapstations
+You can retrieve these notes by using /get notename, or #notename
+Kroxkr
+#yaapstations
+
+Roseadmin
+Kroxkr
+#yaapstations
+@yaapcommon - Common Chat
+@yaapop5 - OnePlus 5 Series
+@yaapop7 - OnePlus 7 Series
+@yaapot - OT Chat
+@yaapraphael - Redmi K20 Pro/Mi 9T Pro
+@yaap_tissot - Xiaomi Mi A1
+@alksgroup - Xiaomi Mi 8
+@yaapupdates - Release Channel
+
+n.a.m na
+@yaapop7
+?
+Vladimir joined the group
+
+Roseadmin
+Vladimir
+joined the group
+Hey there Vladimir, and welcome to YAAP shitpost! How are you?
+
+Vladimir
+[Photo]
+Lol
+I've accidentally created a child of iOS 14 and Android 11
+Arokz
+
+Vladimir
+Photo
+Thats nice tho
+
+Vladimir
+Arokz
+Thats nice tho
+Thx
+
+Jack 5T/8T
+How u do bro ?
+
+v l
+[Photo]
+How did this widget come out?
+Vladimir
+I've accidentally created a child of iOS 14 and Android 11
+。。
+
+Vladimir
+
+v l
+Photo
+Both this one and spotify was created in KWGT
+Nomercy joined the group
+
+Roseadmin
+Nomercy
+joined the group
+Hey there Nomercy, and welcome to YAAP shitpost! How are you?
+
+n.a.m na
+@ yaapop7
+@yaapop7
+/note
+RexSonic joined the group
+
+Roseadmin
+RexSonic
+joined the group
+Hey there RexSonic, and welcome to YAAP shitpost! How are you?
+windeqk #miui_suck joined the group
+
+Roseadmin
+windeqk #miui_suck
+joined the group
+Hey there windeqk, and welcome to YAAP shitpost! How are you?
+
+windeqk #miui_suck
+baad bot
+jioleight | XDA | 🇵🇭 joined the group
+
+Roseadmin
+jioleight | XDA | 🇵🇭
+joined the group
+Hey there jioleight |, and welcome to YAAP shitpost! How are you?
+Amal joined the group
+
+Roseadmin
+Amal
+joined the group
+Hey there Amal, and welcome to YAAP shitpost! How are you?
+𝖠𝗅𝖾𝗑𝖺𝗇𝖽𝗋𝗂𝖺 • 𝗌𝗆𝗈𝗅 joined the group
+
+Roseadmin
+𝖠𝗅𝖾𝗑𝖺𝗇𝖽𝗋𝗂𝖺 • 𝗌𝗆𝗈𝗅
+joined the group
+Hey there 𝖠𝗅𝖾𝗑𝖺𝗇𝖽𝗋𝗂𝖺 • 𝗌𝗆𝗈𝗅, and welcome to YAAP shitpost! How are you?
+
+𝖠𝗅𝖾𝗑𝖺𝗇𝖽𝗋𝗂𝖺 • 𝗌𝗆𝗈𝗅
+
+
+Hewwo
+Guardian AI Dusty joined the group
+
+Roseadmin
+Guardian AI Dusty
+joined the group
+Hey there Guardian, and welcome to YAAP shitpost! How are you?
+
+Guardian AI Dusty
+Cat Power 🤣
+
+𝖠𝗅𝖾𝗑𝖺𝗇𝖽𝗋𝗂𝖺 • 𝗌𝗆𝗈𝗅
+Cleanservice wen btw
+
+Guardian AI Dusty
+God knows when :joy:
+Vladimir
+I've accidentally created a child of iOS 14 and Android 11
+This is a mix breed :joy:
+
+𝖠𝗅𝖾𝗑𝖺𝗇𝖽𝗋𝗂𝖺 • 𝗌𝗆𝗈𝗅
+Ido Ben Hur
+Some ROM developers really care about you users :) They do that by writing bad code apparently. For laughs and good time, Read t
+Tbf I'm not sure I could do better
+But also tbf I unashamedly admit to know very little java
+
+Guardian AI Dusty
+Well I don't know anything :joy:
+
+𝖠𝗅𝖾𝗑𝖺𝗇𝖽𝗋𝗂𝖺 • 𝗌𝗆𝗈𝗅
+Guardian AI Dusty
+Well I don't know anything :joy:
+But
+Do you know how to send catpics
+
+Guardian AI Dusty
+Yeah ...
+
+
+𝖠𝗅𝖾𝗑𝖺𝗇𝖽𝗋𝗂𝖺 • 𝗌𝗆𝗈𝗅
+Guardian AI Dusty
+Yeah ...
+Then you know the important things
+
+Guardian AI Dusty
+🤣
+I am scared of most animals though
+
+𝖠𝗅𝖾𝗑𝖺𝗇𝖽𝗋𝗂𝖺 • 𝗌𝗆𝗈𝗅
+Guardian AI Dusty
+I am scared of most animals though
+Sed
+I'm only scared of small dogs
+
+Guardian AI Dusty
+I am scared of even butterflies
+I don't know why
+Aravindh Kumar joined the group
+
+Roseadmin
+Aravindh Kumar
+joined the group
+Hey there Aravindh, and welcome to YAAP shitpost! How are you?
+
+𝖠𝗅𝖾𝗑𝖺𝗇𝖽𝗋𝗂𝖺 • 𝗌𝗆𝗈𝗅
+Aravindh Kumar
+joined the group
+
+
+Guardian AI Dusty
+[😂 Sticker]
+
+Aravindh Kumar
+Bruh
+Till when was this group a thing
+
+Guardian AI Dusty
+Prolly 4 months
+Or more
+
+Aravindh Kumar
+Wow
+So what's this grp for
+And I don't get the pinned message?
+
+𝖠𝗅𝖾𝗑𝖺𝗇𝖽𝗋𝗂𝖺 • 𝗌𝗆𝗈𝗅
+https://t.me/yaapot/1
+Guardian AI Dusty
+Prolly 4 months
+About one year, six months
+
+Aravindh Kumar
+Wow
+Aravindh Kumar
+So what's this grp for
+.
+
+𝖠𝗅𝖾𝗑𝖺𝗇𝖽𝗋𝗂𝖺 • 𝗌𝗆𝗈𝗅
+Aravindh Kumar
+.
+I'm thinking catpics
+
+Aravindh Kumar
+I'm thinking memes
+https://youtu.be/HrBJDvPZf2g
+
+Guardian AI Dusty
+[🤔 Sticker]
+
+Aravindh Kumar
+Did you watch:joy:
+
+real jake
+[👀 Sticker]
+
+Aravindh Kumar
+[😱 Sticker]
+Avery Earl joined the group
+
+Roseadmin
+Avery Earl
+joined the group
+Hey there Avery, and welcome to YAAP shitpost! How are you?
+Avery Earl
+NVM
+Found it
+So bakf to the pixel thing
+Guardian pixel 3 or 7t? Which is better and why? Go
+
+real jake
+Adhitya Mohan
+https://web.archive.org/web/20201213153403/https://github.com/Project-Xtended/frameworks_base/commit/94e12e7301350ec33f6a1590deb
+just read the proposed commit that was linked to in the comments here, that's about the funniest fucking shit
+Avery Earl
+Guardian pixel 3 or 7t? Which is better and why? Go
+7T overall, better display, decent custom support, better cameras even if it's impossible to get them working half-decent let alone with gcam, 90hz refresh rate
+Avery Earl
+Wait better cameras on the op lol?
+
+real jake
+i mean
+the wide angle
+Avery Earl
+Pixel is known for their cameras
+Well
+Quality wise
+
+real jake
+i mean it's pixel all the way
+but i thought that's why gcam was a thing
+Avery Earl
+Hahaha yeah
+Well yeah
+But
+Even with GCam
+The hardware isn't exact
+It's close
+But pixel will outperform always imo
+Have you ever had a pixel 3
+
+real jake
+yea
+3a albeit but yea
+my mom's got the 3a now
+it takes great pictures
+Avery Earl
+How is the screen
+
+real jake
+it's alright
+it doesn't have as many issues as the 7T had
+but i mean
+it's just another OLED
+7T has the whole green tint thing which mine did
+but it's not a deal breaker
+Avery Earl
+does the 60hz really make it feel alot slower
+
+real jake
+no but like
+on my 7 pro
+i'll toggle it
+and it's smooth as fuck
+Avery Earl
+I have a 7 pro too lol
+
+real jake
+but like really, it's noticable but it's not too much better than 60Hz and it definitely isn't 120Hz
+Avery Earl
+And 7t
+I just like the way the pixel looks
+
+real jake
+I like the 90Hz but my battery is kinda shitting itself
+Avery Earl
+Yeah haha
+
+real jake
+im also running a very very old revision of YAAP bc i dont wanna wipe my phone for the 15th time
+but im about to do it anyway
+Avery Earl
+On your 7p
+?
+
+real jake
+yea
+i have tmo
+so i will occasionally just
+msm tool
+to clean it off and start fresh
+Avery Earl
+Ohh okay
+
+real jake
+and debrand and everything
+Avery Earl
+How was the process of unlocking that bl lol
+Did tmo have to help
+
+real jake
+no
+i mean i think you have to have your phone paid off so you can bl unlock it
+but mine was
+my 7T wasnt and that should have been my queue to return the phone but i didnt and now im stuck with a brick
+
+Guardian AI Dusty
+Wow
+So many things happened while I was doing lunch
+[😂 Sticker]
+Deepak Pathak joined the group
+
+Roseadmin
+Deepak Pathak
+joined the group
+Hey there Deepak, and welcome to YAAP shitpost! How are you?
+
+Aravindh Kumar
+https://youtu.be/B211aVOdvpc
+
+Aravindh Kumar
+Aravindh KumarMay 1, 2021 11:38:22 PM
+[Photo]
+
+Guardian AI Dusty
+
+Aravindh Kumar
+Photo
+Lmfao
+I guess oos 11 is really making people hate their choice
+[😂 Sticker]
+
+evo
+Guardian AI Dusty
+I guess oos 11 is really making people hate their choice
+OOS 11 is pretty fine, at least for me
+
+Guardian AI Dusty
+evo
+OOS 11 is pretty fine, at least for me
+Didn't you have constant network disconnect :joy:
+
+evo
+Guardian AI Dusty
+Didn't you have constant network disconnect :joy:
+Not a single time on current device (8t)
+
+Guardian AI Dusty
+evo
+Not a single time on current device (8t)
+7t had that issues :joy:
+It was working fine for me till 2 weeks
+Then got constant network disconnection
+
+Aravindh Kumar
+Guardian AI Dusty
+I guess oos 11 is really making people hate their choice
+They're saying that cuz of the overheating issues
+
+Guardian AI Dusty
+Aravindh Kumar
+They're saying that cuz of the overheating issues
+Nah
+
+Aravindh Kumar
+They believe a10 will magically solve it
+
+Guardian AI Dusty
+Never had that issue
+Device was cool enough 🤣
+Aravindh Kumar
+They believe a10 will magically solve it
+[😂 Sticker]
+
+Aravindh Kumar
+Guardian AI Dusty
+Nah
+No they are it's from 9 pro heating issues forums
+
+Guardian AI Dusty
+Aravindh Kumar
+No they are it's from 9 pro heating issues forums
+Oh that
+Maybe
+
+Aravindh Kumar
+Yeah was going through it
+Yesterday
+I asked if the heating issues are solved
+They're like "RUN"
+Don't make the mistake
+
+Guardian AI Dusty
+This message is currently not supported on Telegram Web. Try getdesktop.telegram.org.
+I hope someone gives me their 9 pro Just for this :laughing:
+[😂 Sticker]
+
+evo
+Nah, gonna wait until at least 1+11
+
+Guardian AI Dusty
+[😌 Sticker]
+
+evo
+Maybe they’ll solve most issues by then
+
+Aravindh Kumar
+evo
+Nah, gonna wait until at least 1+11
+Me too
+End of the hasselblad partnership
+Let's see what they achieve
+
+Guardian AI Dusty
+Aravindh Kumar
+End of the hasselblad partnership
+And beginning of canon partnership
+[😆 Sticker]
+
+Aravindh Kumar
+[Photo]
+
+Aravindh Kumar
+Guardian AI Dusty
+And beginning of canon partnership
+[🤔 Sticker]
+
+Ido Ben Huradmin
+𝖠𝗅𝖾𝗑𝖺𝗇𝖽𝗋𝗂𝖺 • 𝗌𝗆𝗈𝗅
+But also tbf I unashamedly admit to know very little java
+Java != common sense
+John Galt joined the group
+
+Roseadmin
+John Galt
+joined the group
+Hey there John, and welcome to YAAP shitpost! How are you?
+
+Aravindh Kumar
+Avery EarlMay 2, 2021 8:41:12 PM
+And my 8 pro wa seven worse like 3 hours
+
+Aravindh Kumar
+Hey Avery would you mind telling me how is the 1+ 8 pro since you own one
+Thinking of buying it as sd888 and exy2100 overheats
+Esp interested in cameras so how's the camera perf of 8 pro without gcam
+
+Aravindh Kumar
+Guys
+I got asked "what's your reason to live?"
+Avery Earl
+To answer your question about the 8 pro
+Don't waste your time with it tbh
+It's an okay device but it's not impressive by any means
+I returned it really fast
+
+Aravindh Kumar
+Well then okay I'm not gonna bother then
+Avery Earl
+I honestly wouldn't. I'm really picky when it comes to phones and what you're getting for like $700 is not worth it
+It also depends on what device you have rn
+
+Aravindh Kumar
+Avery Earl
+It also depends on what device you have rn
+7T
+Avery Earl
+Yeah no don't buy one
+I returned the 8 pro and bought this 7t like a couple days ago
+
+Aravindh Kumar
+That settles it:+1:
+I'm gonna wait for the pixel 6
+Avery Earl
+Way better because it's a fraction of the cost and performs identically
+Yeah way better idea
+
+Aravindh Kumar
+Thanks man
+Avery Earl
+I know this sounds crazy but if you're looking to upgrade to something that feels more premium the 7pro us honestly perfect. It has a sd 855 and thus phone has 855+ I can tell you there is close to no difference. Just food for thought. I really like my 7 pro and it feels like a nice flagship with the 4k screen
+
+Aravindh Kumar
+Avery Earl
+I know this sounds crazy but if you're looking to upgrade to something that feels more premium the 7pro us honestly perfect. It
+I don't think I'm gonna buy a >2 year older phone
+I agree it's a more premium device
+I should have bought it instead of the 7T imo
+But too late now
+Avery Earl
+Well you're right but 7t is just more practical for everyday use
+Flat screen
+No popup camera
+
+Aravindh Kumar
+And I'm happy with my 7T. Only reason I wanna upgrade is I want pixel like cameras without using GCam
+Avery Earl
+Easier to tuck away and not have to worry about
+Yeah haha I feel you
+Have you ever had a pixel 3?
+
+Aravindh Kumar
+No
+Avery Earl
+I found it for lik $200
+I know it has a little bit old hardware
+
+Aravindh Kumar
+pixels aren't sold in my country
+Avery Earl
+But not slow by any means
+What country ?
+
+Aravindh Kumar
+Only the pixel 4a is available
+India
+Avery Earl
+Oh okay
+Dude
+I heard how bad covid is there
+
+Aravindh Kumar
+Yep
+Around 5k deaths per day
+Avery Earl
+Are you in an area thats really bad rn
+
+Aravindh Kumar
+No fortunately I'm in a relatively safe region
+Avery Earl
+Good good
+Are vaccinations even rolling out over there yet lol?
+
+Aravindh Kumar
+Thanks for asking rly thoughful of you:blush:
+Avery Earl
+Are vaccinations even rolling out over there yet lol?
+Yeah but only to people older than 21 or something rn
+Little by little
+Avery Earl
+That sucks
+I got my 2nd dose the other day
+
+Aravindh Kumar
+Avery Earl
+That sucks
+Yeah
+Avery Earl
+That shit sucks
+So bad
+
+Aravindh Kumar
+Avery Earl
+I got my 2nd dose the other day
+That's awesome man
+Avery Earl
+You'll feel like you got hit by a damn truck
+
+Aravindh Kumar
+Do you get any fevers or something?
+Avery Earl
+And have chills at night
+
+Aravindh Kumar
+Avery Earl
+You'll feel like you got hit by a damn truck
+Ah
+Avery Earl
+Yep
+
+Aravindh Kumar
+How are ya feelin now?
+You are in the US I presume?
+Avery Earl
+Yep
+I'm good now for the most part lol
+
+Aravindh Kumar
+How are things there?
+Avery Earl
+I mean covid honestly isn't really much of a concern around here, we still take caution and social distance but like it's honestly not scary anymore
+Over half of the US have their vaccines
+
+Aravindh Kumar
+That's good to hear
+Avery Earl
+Look
+
+Aravindh Kumar
+At the start I heard the US was badly affected
+Now it's affecting us
+Avery Earl
+Look
+Hmm
+Avery Earl
+Yeah it was awful here
+[Photo]
+My state only has an average of like 1-2k cases a day
+
+Aravindh Kumar
+[Photo]
+Screenshot (May 2, 2021 9:49:02 PM)
+[Photo]
+Screenshot (May 2, 2021 9:49:28 PM)
+Holy shit I didn't realise it's so bad
+But again I think population is a point to consider
+My state has 6 times the population of ohio
+So yea
+Avery Earl
+Well
+That would make sense then haha
+
+Aravindh Kumar
+I was shocked lol
+Avery Earl
+Yeah that's badddd
+I think there's a ban now lol
+Travel ban
+
+Aravindh Kumar
+Are you talking about here or there?
+Avery Earl
+both
+biden banned people from india coming to the US
+
+Aravindh Kumar
+Oh probably a good thing
+Avery Earl
+tru
+
+Aravindh Kumar
+Hey Avery does los have aod?
+Avery Earl
+No clue
+I didn't like it
+I instantly reverted to yaap
+It feels buggy and not very well developed
+
+Aravindh Kumar
+Avery Earl
+It feels buggy and not very well developed
+Woah
+Yaap is that good huh
+What bugs encountered
+
+Guardian AI Dusty
+Aravindh Kumar
+What bugs encountered
+In my experience it was okish. ..
+
+Aravindh Kumar
+Not as good as yaap
+?
+
+Guardian AI Dusty
+Needs a little refinement :joy:
+
+Aravindh Kumar
+Wdym
+Avery Earl
+It just isn't smooth
+Is stutters
+Phone gets a little warm
+Not gonna lie I didn't have crazy high hopes for this rom before I flashed it hence the name but it literally is a whole project and it's so smooth and there are literally no bugs I've experienced
+
+ALKALiKong #NOETA
+a userMay 3, 2021 5:08:47 AM
+I am asking about that, because YAAP is good maintenaned rom, but I cant use rom without faceunlock. In this way, availability of the notch in this phone will be unjustified.
+Im also used to this unlocking method.
+A L T I R T I X
+
+ALKALiKong #NOETA
+Lmfao
+How to deal with this?
+
+Aravindh Kumar
+Entitled
+Avery Earl
+Not gonna lie I didn't have crazy high hopes for this rom before I flashed it hence the name but it literally is a whole project
+The name is what attracted me lol
+It's different and ironically stands out
+Avery Earl
+Aravindh Kumar
+It's different and ironically stands out
+Yeah
+
+Guardian AI Dusty
+ALKALiKong #NOETA
+I am asking about that, because YAAP is good maintenaned rom, but I cant use rom without faceunlock. In this way, availability o
+Tell him 2d face unlock is shit than 3d one and OnePlus only supports 2d one
+2d one is so shit that a person can open your phone using just your picture :laughing::stuck_out_tongue_closed_eyes:
+
+Aravindh Kumar
+Can it really
+I tried and it never worked for me
+
+Aravindh Kumar
+https://youtu.be/F6NKbQzo4aE
+YouTube
+Vaccine side effects are actually a good thing
+Why you might feel sick after getting a Covid-19 vaccine.Subscribe to our channel! http://goo.gl/0bsAjOEvery vaccine can have side effects like muscle pain, ...
+[Video]
+
+Adhitya Mohanadmin
+Aravindh Kumar
+https://youtu.be/F6NKbQzo4aE
+Sucks when you have them
+
+Aravindh Kumar
+Maybe
+I'll know when I get one
+
+Guardian AI Dusty
+Aravindh Kumar
+I tried and it never worked for me
+Worked for me
+[😂 Sticker]
+
+Aravindh Kumar
+Whoa
+I gotta get a life size cutout
+To try this
+
+Guardian AI Dusty
+Aravindh Kumar
+I gotta get a life size cutout
+Just take an a4 size sheet with your photo and try
+
+Aravindh Kumar
+I believe you
+
+Guardian AI Dusty
+I know :joy:
+Self test sometimes give horrifying results
+Face unlock was available since 2011
+Hell even the first galaxy s used to have those
+
+Aravindh Kumar
+Bruh
+Why does OEMs push it then
+Many implement it
+
+Guardian AI Dusty
+Aravindh Kumar
+Many implement it
+Usually it's only good for the devices which support 3d face unlock
+Some mi devices support it
+And huawei devices support it
+And some more devices support it but I don't know much :joy:
+Samsung used to implement iris scans which was also pretty secure :joy:
+
+Aravindh Kumar
+I see
+S9 I think was the last one
+
+Guardian AI Dusty
+Yeah
+
+Aravindh Kumar
+
+ 4.7 MB
+ 
+
+Guardian AI Dusty
+Really
+That's was Samsung bug thing :joy:
+
+Aravindh Kumar
+Not just samsung lol
+All Androids
+
+Guardian AI Dusty
+Aravindh Kumar
+All Androids
+Well atleast you sent the fixed one :joy:
+
+Adhitya Mohanadmin
+Guardian AI Dusty
+Well atleast you sent the fixed one :joy:
+It was fixed in framework
+Via a sec patch or whatever
+Wouldn't affect R
+
+Guardian AI Dusty
+Ah...
+That one pixel in that image destroyed lives of people :laughing:
+
+Aravindh Kumar
+Lol
+
+Aravindh Kumar
+[Photo]
+
+Aravindh Kumar
+[Photo]
+
+Aravindh Kumar
+Avery pe is really good
+But it's Kernel is so bad
+Avery Earl
+battery life?
+
+Aravindh Kumar
+It's stock kernel has the soc scheduler set to performance
+Avery Earl
+Hahahahaha
+
+Aravindh Kumar
+So evey core is at its maximum freq
+Avery Earl
+That's ass
+
+Aravindh Kumar
+Yeah it is
+
+John Galt
+Aravindh Kumar
+But it's Kernel is so bad
+You could flash Gulch sdcardfs build.
+Avery Earl
+Yaap is the same thing tho
+Why bother
+
+Aravindh Kumar
+I was running it like that
+Avery Earl
+Yaap is pe with better kernel
+
+Aravindh Kumar
+I used your kernel before we made the shift to f2fs
+Then when yaap guys said a big change is coming I just shifted
+Not really that big of a different
+Avery Earl
+Like
+
+Aravindh Kumar
+It had face unlock and pixel like "styles and wallpaper" menu
+Avery Earl
+Battery life ?
+
+Aravindh Kumar
+In settinga
+Avery Earl
+How was battery
+
+Aravindh Kumar
+Avery Earl
+Battery life ?
+With John's kernel it was okayish
+But I honestly don't remember
+It was long back
+Avery Earl
+Oh okay
+
+Aravindh Kumar
+But I don't think it was as good as how  yaap is now
+Avery Earl
+Aravindh Kumar
+With John's kernel it was okayish
+Now that someone that is actually willing to reply to me is in here do you know why my brightness would be stuck like I slide all the way from 0 to 100 and it just doesn't change
+
+John Galt
+Avery Earl
+Now that someone that is actually willing to reply to me is in here do you know why my brightness would be stuck like I slide al
+HBM glitched on most likely. Toggle it on and off.
+
+Aravindh Kumar
+Avery Earl
+Now that someone that is actually willing to reply to me is in here do you know why my brightness would be stuck like I slide al
+Sometimes it does that
+
+John Galt
+I've seen it once and never recreated.
+Avery Earl
+Hold on
+Still doing it lmao
+On hbm and regular
+One brightness
+
+John Galt
+Reboot?
+Avery Earl
+It obv gets brighter with hbm but from there the slider does nothing
+Imma try to I'll brb
+
+John Galt
+Avery Earl
+It obv gets brighter with hbm but from there the slider does nothing
+Oh huh nvm then, I was wrong.
+
+Aravindh Kumar
+Is it possible to add headphone jack functionality in the next yaap build please?
+
+Guardian AI Dusty
+Brightness is something
+I burned my eyes at 2am seeing my screen
+Even reset the device health services ...
+It did work to some extent :joy:

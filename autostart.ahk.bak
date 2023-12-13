@@ -1,0 +1,35 @@
+﻿;SetKeyDelay, 150, 150
+SetTitleMatchMode, 2
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+
+b = C:\Users\%A_Username%\Google Drive\file share
+if !FileExist(b)
+   b = C:\Users\%A_Username%\Documents\share\file share
+if !FileExist(b)
+   b = C:\Users\Administrator\Google Drive\file share
+if !FileExist(b)
+   b = C:\Users\Admin\Google Drive\file share
+OutputDebug %b%
+global b
+
+IfInString,A_UserName,Admin
+{
+;sleep 20000
+asd = "%b%\host.ahk"
+OutputDebug %asd%
+RunWait Ahk2Exe.exe /in %asd% /out host.exe 
+;, "c:\Program Files\AutoHotkey\Compiler"
+sleep 800
+RunWait Ahk2Exe.exe   /in "%b%\start.ahk" /out start.exe , %A_ScriptFullPath%
+sleep 500
+Run *RunAs host.exe
+Run *RunAs start.exe
+}
+else
+{
+sleep 15000
+RunWait  "c:\Program Files\AutoHotkey\Compiler\Ahk2Exe.exe" /in %b%/start.ahk /out %A_ScriptDir%/start.exe
+sleep 800
+Run *RunAs start.exe
+}
+ExitApp 

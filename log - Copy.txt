@@ -1,0 +1,46 @@
+@ Ready - Counter-Strike: Global Offensive @ w768 h480
+@ Steam Login @ w960 h780
+@ Steam Login @ w960 h660
+ w h
+@ Counter-Strike: Global Offensive - Steam @ w768 h480
+@ Updating Counter-Strike: Global Offensive @ w768 h480
+ w64 h24
+@ Steam - Error @ w1400 h328
+@ Steam - Error @ w1748 h408
+ w h
+@ Steam Login @ w960 h660
+@ Counter-Strike: Global Offensive - Steam @ w768 h480
+@ Updating Counter-Strike: Global Offensive @ w768 h480
+@ Steam - Error @ w1400 h328
+@ Steam - Error @ w1748 h408
+ w8384887 h0
+@ Ready - Counter-Strike: Global Offensive @ w768 h480
+@ Steam - Warning @ w680 h360
+@ Steam Login @ w h
+@ Steam - Error @ w596 h300
+@ Steam - Error @ w1074 h380
+@ Steam - Error @ w768 h480
+@ Steam @ w2020 h1200
+ w h
+@ Steam Login @ w960 h660
+@ Steam Login @ w314 h50
+ w h
+@ Steam Login @ w314 h50
+ w h
+Steam Login w960 h660
+Counter-Strike: Global Offensive - Steam w768 h480
+ w768 h480
+ w1600 h1200
+@ Steam @ w730 h50
+ w64 h24
+@  @ w1600 h1200
+ w480 h188
+Steam w2020 h1200
+Steam w314 h50
+ w h
+@ Steam Login @ w480 h330
+@ Counter-Strike: Global Offensive - Steam @ w384 h240
+Steam - Warning w516 h298
+ w240 h98
+ w240 h74
+ w h

@@ -1,0 +1,183 @@
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+#SingleInstance Force
+ ;#Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+CoordMode Pixel, Screen
+CoordMode Mouse, Screen
+SetTitleMatchMode 2
+
+
+
+
+
+
+
+
+data := []
+
+              loop, Read,log.txt
+                  {
+                    data.push(A_LoopReadLine) ; 
+                  }
+
+loop
+{
+pids := pidListFromName("steam.exe")
+value1 := pids[1]
+    ,value2 := pids[2]
+    ,value3 := pids[3]
+    ,value4 := pids[4]
+    ,value5 := pids[5]
+    ,value6 := pids[6]
+    ,value7 := pids[7]
+    ,value8 := pids[8]
+    ,value9 := pids[9]
+    ,value10 := pids[10]
+    ,value11 := pids[11]
+    ,value12 := pids[12]
+    ,value13 := pids[13]
+    ,value14 := pids[14]
+    ,value15 := pids[15]
+    ,value16 := pids[16]
+    ,value17 := pids[17]
+    ,value18 := pids[18]
+    ,value19 := pids[19]
+    ,value20 := pids[20]
+i =  1
+Loop
+{
+  Var := value%i%
+  if (Var == "")
+    break
+  ;OutputDebug %i% %Var%
+  ControlGetPos, x, y, w, h, ,ahk_pid %var%
+  WinGetTitle, Var, ahk_pid %Var%
+  ;OutputDebug %i% %Var%
+  chk = %var% w%w% h%h%
+    v:=hasval(data,chk)
+    ;OutputDebug v = %v%
+if (v=0)
+{
+  OutputDebug >%chk%
+  data.push(chk)
+  FileAppend, %var% w%w% h%h%`n, log.txt
+}
+i++
+}
+}
+
+loop
+{
+pids := pidListFromName("steam1.exe")
+value1 := pids[1]
+    ,value2 := pids[2]
+    ,value3 := pids[3]
+    ,value4 := pids[4]
+    ,value5 := pids[5]
+    ,value6 := pids[6]
+    ,value7 := pids[7]
+    ,value8 := pids[8]
+    ,value9 := pids[9]
+    ,value10 := pids[10]
+    ,value11 := pids[11]
+    ,value12 := pids[12]
+    ,value13 := pids[13]
+    ,value14 := pids[14]
+    ,value15 := pids[15]
+    ,value16 := pids[16]
+    ,value17 := pids[17]
+    ,value18 := pids[18]
+    ,value19 := pids[19]
+    ,value20 := pids[20]
+i =  1
+Loop
+{
+  Var := value%i%
+  if (Var == "")
+    break
+  ;OutputDebug %i% %Var%
+  ControlGetPos, x, y, w, h, ,ahk_pid %var%
+  WinGetTitle, Var, ahk_pid %Var%
+  ;OutputDebug %i% %Var%
+  chk = %var% w%w% h%h%
+    v:=hasval(data,chk)
+    ;OutputDebug v = %v%
+if (v=0)
+{
+  OutputDebug >%chk%
+  data.push(chk)
+  FileAppend, %var% w%w% h%h%`n, log.txt
+}
+i++
+}
+}
+
+loop
+{
+pids := pidListFromName("csgo.exe")
+value1 := pids[1]
+    ,value2 := pids[2]
+    ,value3 := pids[3]
+    ,value4 := pids[4]
+    ,value5 := pids[5]
+    ,value6 := pids[6]
+    ,value7 := pids[7]
+    ,value8 := pids[8]
+    ,value9 := pids[9]
+    ,value10 := pids[10]
+    ,value11 := pids[11]
+    ,value12 := pids[12]
+    ,value13 := pids[13]
+    ,value14 := pids[14]
+    ,value15 := pids[15]
+    ,value16 := pids[16]
+    ,value17 := pids[17]
+    ,value18 := pids[18]
+    ,value19 := pids[19]
+    ,value20 := pids[20]
+i =  1
+Loop
+{
+  Var := value%i%
+  if (Var == "")
+    break
+  ;OutputDebug %i% %Var%
+  ControlGetPos, x, y, w, h, ,ahk_pid %var%
+  WinGetTitle, Var, ahk_pid %Var%
+  ;OutputDebug %i% %Var%
+  chk = %var% w%w% h%h%
+    v:=hasval(data,chk)
+    ;OutputDebug v = %v%
+if (v=0)
+{
+  OutputDebug >%chk%
+  data.push(chk)
+  FileAppend, %var% w%w% h%h%`n, log.txt
+}
+i++
+}
+}
+
+pidListFromName(name) {
+	static wmi := ComObjGet("winmgmts:\\.\root\cimv2")
+	
+	if (name == "")
+		return
+
+	PIDs := []
+	for Process in wmi.ExecQuery("SELECT * FROM Win32_Process WHERE Name = '" name "'")
+		PIDs.Push(Process.processId)
+
+	return PIDs 
+}
+hasVal(haystack, needle) {
+    if(!isObject(haystack))
+        return false
+    if(haystack.Length()==0)
+        return false
+    for k,v in haystack
+        if(v==needle)
+            return true
+    return false
+}

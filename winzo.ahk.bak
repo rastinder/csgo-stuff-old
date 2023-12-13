@@ -1,0 +1,128 @@
+﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+; #Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+CoordMode mouse,screen
+CoordMode Pixel,screen
+SetMouseDelay,20
+; y 385 ,x 130 , 140 , 150  WinZO
+sleep 500
+active_id:= WinExist("855376382 - AnyDesk") 
+hwnd := "ad_win#2"
+WinActivate, 855376382 - AnyDesk
+;SetControlDelay -1
+;MouseMove, 190,190
+x1:="944"
+,x2:="960"
+,x3:="976"
+,y1:="596"
+,y2:="698"
+,y3:="596"
+,y := "600"
+,x := "960"
+
+;MouseClick, left, x,y,,0,,
+;ControlClick, x190 y190
+;ControlClick, ,ahk_id%hwnd%,,left,1, x190 y190
+;ControlClick, ,ahk_id%hwnd%,,left,1, x190 y190
+;PostLeftClick(x, y, hwnd)
+;ExitApp
+Loop{
+if GetKeyState("alt","P")
+{
+;MouseGetPos, MouseX, MouseY 
+r1 :=getr(x1,y1)
+,r2 :=getr(x2,y2)
+,r3 :=getr(x2,y3)
+OutputDebug  %r1%,    %r2%,   %r3% `n
+Random,de,1,5
+Random,dee,5,20
+If Mod(de, 2)=0
+{
+xx := x + de
+,yy := y + de
+}
+else
+{
+	xx := x - de
+,yy := y - de
+}
+;MouseClickDrag, left, de, x, y,xx,yy
+SetMouseDelay,%dee%
+if ( r1 < 25 and r2 < 25 and r3 < 25)
+{
+	MouseClick, left, x,y,,de,
+		;MouseClickDrag, left, de, x, y,xx,yy
+		Sleep 8
+		
+}
+;	MouseClick, left, x,y,,de,,
+else if  ( r1 = 255 and r2 = 255 and r3 = 255)
+{
+	MouseClick, left, x,y,,de,
+		;MouseClickDrag, left, de, x, y,xx,yy
+		Sleep 8
+}
+;		MouseClick, left, x,y,,de,,
+;OutputDebug lol %lol% `n
+x:= xx
+,y := yy
+}
+;Sleep 500
+}
+
+
+PostLeftClick(x, y, hwnd) {
+
+   PostMessage, 0x201, 0x0001, ((y<<16)^x), , ahk_id%hwnd%         ;WM_LBUTTONDOWN
+   Sleep 50
+   PostMessage, 0x202 , 0, ((y<<16)^x), , ahk_id%hwnd%               ;WM_LBUTTONUP
+
+}
+
+!p::pause
+getr(MouseX, MouseY )
+{
+PixelGetColor, color, %MouseX%, %MouseY% ;color under the mouse
+;MouseMove, MouseX, MouseY
+Red:="0x" SubStr(color,7,2)
+,Red:=Red+0
+
+;OutputDebug `n Red %Red% Green %Green% Blue %Blue%
+return red
+}
+
+
+getrgb(MouseX, MouseY )
+{
+MouseMove, MouseX, MouseY
+PixelGetColor, color, %MouseX%, %MouseY% ;color under the mouse
+
+Blue:="0x" SubStr(color,3,2) ;substr is to get the piece
+
+Blue:=Blue+0 ;add 0 is to convert it to the current number format
+
+Green:="0x" SubStr(color,5,2)
+
+Green:=Green+0
+
+Red:="0x" SubStr(color,7,2)
+
+Red:=Red+0
+
+OutputDebug `n Red %Red% Green %Green% Blue %Blue%
+return red
+}
+
+
+
+
+
+Loop
+{
+	sleep 200
+}
+
+!x::
+
+return

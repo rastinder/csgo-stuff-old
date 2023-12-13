@@ -1,0 +1,9 @@
+Taskkill /FI "USERNAME eq %USERNAME%" /IM csgo.exe /F /T
+Taskkill /FI "USERNAME eq %USERNAME%" /IM WerFault* /F /T
+Taskkill /FI "USERNAME eq %USERNAME%" /IM steam.exe /F /T
+Taskkill /FI "USERNAME eq %USERNAME%" /IM steam1.exe /F /T
+Taskkill /FI "USERNAME eq %USERNAME%" /IM vac.exe /F /T
+Taskkill /FI "USERNAME eq %USERNAME%" /IM steamwebhelper.exe /F /T
+Taskkill /FI "USERNAME eq %USERNAME%" /IM steamerrorreporter.exe /F /T
+Taskkill /FI "USERNAME eq %USERNAME%" /IM steamerrorreporter64.exe /F /T
+Taskkill /FI "USERNAME eq %USERNAME%" /IM GameOverlayUI.exe /F /T

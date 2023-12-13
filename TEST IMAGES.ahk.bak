@@ -1,0 +1,211 @@
+﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+; #Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+CoordMode Pixel, Screen
+CoordMode Mouse, Screen
+!p::Pause
+F6::play()
+FoundX := 0
+FoundY := 0
+
+
+F4::launch()
+launch()
+{
+run "c:\Program Files\Sandboxie\Start.exe" /elevate /silent /box:01 "c:\Program Files (x86)\Steam\Steam.exe"  -login	AyTXZU26YknP	UGz3pRejdr7U	-applaunch 730 -silent -windowed -nosound -novid -nojoy -noaafonts  -low -h 480 -w 640 -x 0 -y 0
+sleep 5000
+run "c:\Program Files\Sandboxie\Start.exe" /elevate /silent /box:02 "c:\Program Files (x86)\Steam\Steam.exe"  -login	du7cB9bYFkGj	nHJQ83wvfPH2	-applaunch 730 -silent -windowed -nosound -novid -nojoy -noaafonts  -low -h 480 -w 640 -x 641 -y 0
+sleep 5000
+run "c:\Program Files\Sandboxie\Start.exe" /elevate /silent /box:03 "c:\Program Files (x86)\Steam\Steam.exe"  -login	Tg5Kua5uhT6Q	LKjbpTcKhtpy	-applaunch 730 -silent -windowed -nosound -novid -nojoy -noaafonts  -low -h 480 -w 640 -x 1281 -y 0
+sleep 5000
+run "c:\Program Files\Sandboxie\Start.exe" /elevate /silent /box:04 "c:\Program Files (x86)\Steam\Steam.exe"  -login	TcmnEj7DaDGW	Xj38AeExTT5c	-applaunch 730 -silent -windowed -nosound -novid -nojoy -noaafonts  -low -h 480 -w 640 -x 1921 -y 0
+sleep 5000
+run "c:\Program Files\Sandboxie\Start.exe" /elevate /silent /box:05 "c:\Program Files (x86)\Steam\Steam.exe"  -login	vauzSZdQ84W3	QYsWyungWyG7	-applaunch 730 -silent -windowed -nosound -novid -nojoy -noaafonts  -low -h 480 -w 640 -x 1921 -y 481
+sleep 6000
+run "c:\Program Files\Sandboxie\Start.exe" /elevate /silent /box:06 "c:\Program Files (x86)\Steam\Steam.exe"  -login	QB2frkNah4SP	uD4PqUaawGDz	-applaunch 730 -silent -windowed -nosound -novid -nojoy -noaafonts  -low -h 480 -w 640 -x 0 -y 481
+sleep 6000
+run "c:\Program Files\Sandboxie\Start.exe" /elevate /silent /box:07 "c:\Program Files (x86)\Steam\Steam.exe"  -login	mDJzgp2kHCD5	WRzMVzL6s7Am	-applaunch 730 -silent -windowed -nosound -novid -nojoy -noaafonts  -low -h 480 -w 640 -x 641 -y 481
+sleep 7000
+run "c:\Program Files\Sandboxie\Start.exe" /elevate /silent /box:08 "c:\Program Files (x86)\Steam\Steam.exe"  -login	WJGqUTGBg6eK	2zpeDxb74Fwy	-applaunch 730 -silent -windowed -nosound -novid -nojoy -noaafonts  -low -h 480 -w 640 -x 1281 -y 481
+sleep 8000
+run "c:\Program Files\Sandboxie\Start.exe" /elevate /silent /box:09 "c:\Program Files (x86)\Steam\Steam.exe"  -login	beigewayed456542	WHt3kpPP	-applaunch 730 -silent -windowed -nosound -novid -nojoy -noaafonts  -low -h 480 -w 640 -x 2561 -y 0
+sleep 9000
+run "c:\Program Files\Sandboxie\Start.exe" /elevate /silent /box:10 "c:\Program Files (x86)\Steam\Steam.exe"  -login	investorsbelch	jvDzpM38	-applaunch 730 -silent -windowed -nosound -novid -nojoy -noaafonts  	-low -h 480 -w 640 -x 2561 -y 481
+}
+
+
+play()
+{
+    
+    lobby = 1
+    loading  = 0
+    win = 0
+    script = 0
+    script1 = 0
+    go = 1
+    firstrun = 0
+    teamwin = 0
+    wins = 0
+    join = 1     ;  1 is run 0 will not
+    
+   ; OutputDebug  
+    
+    loop
+    {
+      
+        Sleep 1000
+    
+    
+    
+    
+    
+    If ( lobby = 1 ) 
+        {
+                            ImageSearch, FoundX, FoundY, 0, 0, 3840, A_ScreenHeight, go.png
+                                If (ErrorLevel = 2){
+                                                    MsgBox Could not conduct the search.
+                                                    }
+                                Else{
+                                    If (ErrorLevel = 1){
+                                                        ;level 1 means not found
+                                                        go = 0 ; this is trash code
+                                                        }
+                                                        Else{
+                                                                x :=  FoundX 
+                                                                y :=  FoundY
+                                                                MouseClick, left, x, y
+                                                                go = 1
+                                                                Sleep 5100
+                                                             }           
+                                     }
+        }           
+    
+    
+    
+    
+    If ( go = 0 ) 
+        {
+                    ImageSearch, FoundX, FoundY, 0, 0, 3840, 540, accept.png
+                        If (ErrorLevel = 2)
+                        {
+                           MsgBox Could not conduct the search.
+                        }
+                        Else{
+                            If (ErrorLevel = 1)
+                                {
+                                     a1 = 0 ; this is trash code
+                                }
+                                Else{
+                                        a1 = 1
+                                        sleep 5000
+                                    }
+                            }
+                            
+                    ImageSearch, FoundX, FoundY, 0, 540, 3840, 1080, accept.png
+                        If (ErrorLevel = 2)
+                        {
+                           MsgBox Could not conduct the search.
+                        }
+                        Else{
+                            If (ErrorLevel = 1)
+                                {
+                                     a2 = 0 ; this is trash code
+                                }
+                                Else{
+                                        a2 = 1
+                                        sleep 5000
+                                    }
+                            }  
+
+                    
+                    
+                     If ( a1 = 1 && a2 = 1 )
+                        {
+                                                ; acceptseen = 1
+                                                ; while ( acceptseen = 1 )
+                                                ; {    
+                            Run accept.bat      ;     ImageSearch, FoundX, FoundY, 0, 0, 3840, 1080, accept.png
+                            Sleep 5000                   ;     x :=  FoundX 
+                                                ;     y :=  FoundY
+                                                ;     MouseClick, left, x, y
+                                                ;     Sleep 181
+                                                ;     If (ErrorLevel = 1)
+                                                ;         acceptseen = 0
+                            ;}
+                             a1 = 0
+                             a2 = 0
+                             lobby = 0
+                             loading = 1
+                             firstrun = 1
+                             go = 1
+                            
+                        }
+                        Else{
+                                If ( a1 = 1 or a2 = 1 )
+                                {
+                                    cross = 0
+                                    while ( cross < 5 )
+                                        {
+                                            ImageSearch, FoundX, FoundY, 0, 0, 3840, A_ScreenHeight, close.png
+                                                If (ErrorLevel = 1)
+                                                    {
+                                                        cross = 6 ; this is trash code
+                                                    }
+                                                    Else{
+                                                            cross++
+                                                            sleep 200
+                                                            x :=  FoundX 
+                                                            y :=  FoundY
+                                                            MouseClick, left, x, y
+                                                        }
+                                        }
+                                }
+                            }    
+        }
+        
+    if ( loading = 1 )
+        {
+            if  ( firstrun = 1 )
+                { 
+                  ;  run startscript.bat
+                    sleep 70000
+                    sleep 50000
+                    firstrun = 0
+                    wins = 0
+                    teamwin = 0
+                }
+            while ( wins <= 16 )
+                {
+                    while ( teamwin <= 8 )
+                    {
+                        Run top.bat
+                        sleep 60000
+                        teamwin++
+                        win++
+                    }    
+                     Run bottom.bat
+                     sleep 60000
+                     win++
+                }
+            loading = 0
+           ; Run stopscript.bat
+            sleep 5000
+            join = 1
+        }
+
+    if ( join = 1 )
+    {
+        run join.bat
+        sleep 30000
+        join = 0
+        lobby = 1
+    }    
+    
+    
+    
+   
+ 
+}   ; loop 
+    
+} ; play

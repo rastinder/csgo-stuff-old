@@ -1,0 +1,191 @@
+﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+; #Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+
+a = %A_ScriptDir%\levelnum.txt
+if  !fileexist(a)
+makenewlevels()
+processoflevel()
+Exit
+f2::makenewlevels()
+f3::processoflevel()
+f4::recieveoutputlevels()
+f5::filesdelete()
+
+
+
+makenewlevels()
+{
+FileDelete level5.txt
+loop
+{
+FileReadLine, value,username.txt, %A_Index%
+if (ErrorLevel = 1)
+        break
+	FileAppend, %value% `n, level5.txt
+}
+}
+
+processoflevel()
+{
+FileDelete, levelnum.txt
+b = 0
+loop , 11
+{
+FileReadLine, value,level%b%.txt, 10
+;lvl := level%b%
+if (ErrorLevel != 1)
+	FileAppend, %b% `n, levelnum.txt
+b++
+}
+
+loop
+{
+FileReadLine,lvl,levelnum.txt,%A_Index%
+if (ErrorLevel = 1)
+        break
+;if  !(lvl > 10 or lvl < 0)
+;	{
+		b = %lvl%
+		a := b-1
+		c := b+1
+
+		i = 1
+		loop
+		{
+		FileReadLine, value,level%b%.txt, %A_Index%
+		if (ErrorLevel = 1)
+				break
+		if ( i = 11)
+			i = 1
+		if (i <= 5)	
+		{
+			FileAppend, %value% `n, level%c%.txt
+		}
+		else
+		{
+			FileAppend, %value% `n, level%a%.txt
+		}
+;	}
+	i++
+}
+FileDelete, level%b%.txt
+}
+recieveoutputlevels()
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+recieveoutputlevels()
+{
+FileDelete, username.txt
+loop
+{
+FileReadLine, value,level10.txt, %A_Index%
+if (ErrorLevel = 1)
+        break
+	FileAppend, %value% `n, username.txt
+}	
+
+loop
+{
+FileReadLine, value,level9.txt, %A_Index%
+if (ErrorLevel = 1)
+        break
+	FileAppend, %value% `n, username.txt
+}	
+
+loop
+{
+FileReadLine, value,level8.txt, %A_Index%
+if (ErrorLevel = 1)
+        break
+	FileAppend, %value% `n, username.txt
+}	
+
+loop
+{
+FileReadLine, value,level7.txt, %A_Index%
+if (ErrorLevel = 1)
+        break
+	FileAppend, %value% `n, username.txt
+}	
+
+loop
+{
+FileReadLine, value,level6.txt, %A_Index%
+if (ErrorLevel = 1)
+        break
+	FileAppend, %value% `n, username.txt
+}	
+
+loop
+{
+FileReadLine, value,level5.txt, %A_Index%
+if (ErrorLevel = 1)
+        break
+	FileAppend, %value% `n, username.txt
+}	
+
+loop
+{
+FileReadLine, value,level4.txt, %A_Index%
+if (ErrorLevel = 1)
+        break
+	FileAppend, %value% `n, username.txt
+}	
+
+loop
+{
+FileReadLine, value,level3.txt, %A_Index%
+if (ErrorLevel = 1)
+        break
+	FileAppend, %value% `n, username.txt
+}	
+
+loop
+{
+FileReadLine, value,level2.txt, %A_Index%
+if (ErrorLevel = 1)
+        break
+	FileAppend, %value% `n, username.txt
+}	
+
+loop
+{
+FileReadLine, value,level1.txt, %A_Index%
+if (ErrorLevel = 1)
+        break
+	FileAppend, %value% `n, username.txt
+}
+loop
+{
+FileReadLine, value,level0.txt, %A_Index%
+if (ErrorLevel = 1)
+        break
+	FileAppend, %value% `n, username.txt
+}
+}
+
+filesdelete()
+{
+	b = 0
+Loop,11
+{
+	FileDelete, level%b%.txt
+	b++
+}
+}
+
+ExitApp

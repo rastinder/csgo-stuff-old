@@ -1,0 +1,196 @@
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+#SingleInstance Force
+#include <tf>  
+SetTitleMatchMode, 2
+Process, Priority, , L
+
+	WinGetTitle, Var ,Remote,,fault
+	OutputDebug %Var%
+
+b = C:\Users\%A_Username%\Google Drive\file share
+if !FileExist(b)
+   b = C:\Users\%A_Username%\Documents\share\file share
+if !FileExist(b)
+   b = C:\Users\Administrator\Google Drive\file share
+ if !FileExist(b)
+   b = C:\Users\Admin\Google Drive\file share  
+OutputDebug %b%
+;global b
+active_users :=[]
+
+
+If InStr(A_UserName,"Admin"){
+If !InStr(A_ComputerName,"2700"){
+Loop, Files,C:\Users\* ,D
+{
+	sleep 100
+	Var := A_LoopFileName 
+	OutputDebug %A_LoopFileName%
+	If InStr(Var,"Defau") 
+		continue
+	else If InStr(Var,"Publ")
+			continue
+		else	If InStr(Var,"All")
+				continue
+			else	If InStr(Var,"Admin")
+					continue
+					else if ( a_username == var)
+						continue
+					else {
+						OutputDebug %A_LoopFileName% %value%
+						Length := StrLen(A_LoopFileName)
+						word =  % SubStr(A_LoopFileName, Length, 1)
+						if ( word = 1)
+							{
+								RegWrite,REG_SZ,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,DefaultUserName,%A_LoopFileName%
+								Shutdown,6
+								ExitApp
+							}
+					}
+}
+}}
+	
+
+
+Loop, Files,C:\Users\* ,D
+{
+	sleep 100
+	Var := A_LoopFileName 
+	OutputDebug %A_LoopFileName%
+	If InStr(Var,"Defau") 
+		continue
+	else If InStr(Var,"Publ")
+			continue
+		else	If InStr(Var,"All")
+				continue
+			else	If InStr(Var,"Admin")
+					continue
+					else if ( A_UserName == var)
+						continue
+					else {
+					   IniRead,value,%b%\z_extra\work.ini,%A_LoopFileName%,autorun
+						OutputDebug %A_LoopFileName% %value%
+						if ( value == "1")
+						active_users.push(A_LoopFileName)
+					}
+}
+
+windows := active_users.MaxIndex()
+change_dimentiosn()
+
+
+Loop
+{
+	WinGetTitle, Var ,Remote,,fault
+	OutputDebug %Var%
+	 If InStr(Var,"Remote")
+		{
+			WinActivate,Remote,,fault
+			sleep 100
+			send {enter}
+			sleep 50
+			ControlClick,ok,left
+		}
+		Sleep 100
+
+	
+	if (windows >= 1)
+	{
+		WinGetTitle, Var ,fault2
+		OutputDebug %Var%	
+	
+	 If InStr(Var,"fault2")
+		{
+			WinMove, %Var%,, 0, 999
+			OutputDebug YEEEEEEE
+			Sleep 5000
+		}
+	else
+		{
+			run C:\Users\%A_UserName%\Documents\Default2.rdp
+			Sleep 1000
+		}
+		Sleep 150
+		WinGetTitle, Var ,fault2
+		OutputDebug %Var%	
+	}	
+	
+
+	if (windows >= 2)
+	{
+		WinGetTitle, Var ,fault1
+		OutputDebug %Var%	
+	If InStr(Var,"fault1")
+		{
+			WinMove, %Var%,, 1920, 999
+			OutputDebug YEEEEEEE
+			Sleep 5000
+		}
+	else
+		{
+			run C:\Users\%A_UserName%\Documents\Default1.rdp
+			Sleep 1000
+		}
+		Sleep 500
+		WinGetTitle, Var ,fault1
+		OutputDebug %Var%	
+	}
+}
+
+
+
+
+
+
+change_dimentiosn()
+{
+	
+	file_write = !C:\Users\%A_UserName%\Documents\Default1.rdp ;....................................................................................................
+	v := ""
+	,str:="smart sizing"
+	replace_with:="smart sizing:i:1"
+	output12.Push(A_LoopReadLine)
+	v := TF_Find(file_write, 1, 0, str, 1, 0)
+	OutputDebug `n v=%v% %str%
+	if v
+	TF_ReplaceLine(file_write,v,v,replace_with)
+	else
+		FileAppend,%replace_with% `n,%file_write%
+	
+	
+		v := ""
+	,str:="winposstr"
+
+		replace_with:="winposstr:s:0,1,1920,999,3840,2160"
+	v := TF_Find(file_write, 1, 0, str, 1, 0)
+	OutputDebug `n v=%v% %str%
+	if v
+	TF_ReplaceLine(file_write,v,v,replace_with)
+	else
+		FileAppend,%replace_with% `n,%file_write%
+	
+		file_write = !C:\Users\%A_UserName%\Documents\Default2.rdp  ;....................................................................................................
+	v := ""
+	,str:="smart sizing"
+	replace_with:="smart sizing:i:1"
+	output12.Push(A_LoopReadLine)
+	v := TF_Find(file_write, 1, 0, str, 1, 0)
+	OutputDebug `n v=%v% %str%
+	if v
+	TF_ReplaceLine(file_write,v,v,replace_with)
+	else
+		FileAppend,%replace_with% `n,%file_write%
+	
+	
+		v := ""
+	,str:="winposstr"
+	replace_with:="winposstr:s:0,1,0,999,1920,2160"
+	v := TF_Find(file_write, 1, 0, str, 1, 0)
+	OutputDebug `n v=%v% %str%
+	if v
+	TF_ReplaceLine(file_write,v,v,replace_with)
+	else
+		FileAppend,%replace_with% `n,%file_write%
+	
+}
+

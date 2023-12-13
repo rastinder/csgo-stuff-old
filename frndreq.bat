@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Nemex\Mouse Recorder Pro 2\Mouse Recorder Pro.exe" "C:\Users\rasti\Documents\My Recorded Scripts\Untitled2.m2s" -count1 -autorun -end
